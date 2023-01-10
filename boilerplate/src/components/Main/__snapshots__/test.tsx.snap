@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`First test should render the colors correctly 1`] = `
+<div>
+  <main
+    class="sc-bcXHqe cIRDGJ"
+  >
+    <img
+      alt="Imagem de um átomo com fundo no formato hexagonal rosa com escrito ao lado React avançado"
+      class="sc-gswNZR jrWWzK"
+      src="/img/logo.svg"
+    />
+    <h1
+      class="sc-dkrFOg cTgUWI"
+    >
+      React Avançado
+    </h1>
+    <h2
+      class="sc-hLBbgP cYZaHe"
+    >
+      Typescript, ReactJS, NextJS e Styled Components
+    </h2>
+    <img
+      alt="Um desenvolvedor de frente para 3 telas com código."
+      class="sc-eDvSVe hbgsoG"
+      src="/img/hero-illustration.svg"
+    />
+  </main>
+</div>
+`;
+
+exports[`First test should render the heading 1`] = `
+<div>
+  <main
+    class="sc-bcXHqe cIRDGJ"
+  >
+    <img
+      alt="Imagem de um átomo com fundo no formato hexagonal rosa com escrito ao lado React avançado"
+      class="sc-gswNZR jrWWzK"
+      src="/img/logo.svg"
+    />
+    <h1
+      class="sc-dkrFOg cTgUWI"
+    >
+      React Avançado
+    </h1>
+    <h2
+      class="sc-hLBbgP cYZaHe"
+    >
+      Typescript, ReactJS, NextJS e Styled Components
+    </h2>
+    <img
+      alt="Um desenvolvedor de frente para 3 telas com código."
+      class="sc-eDvSVe hbgsoG"
+      src="/img/hero-illustration.svg"
+    />
+  </main>
+</div>
+`;
